@@ -8,4 +8,4 @@ Solo Asignatura de programacion: grep "programacion" ...txt | wc -l
 
 Dominio .es: git log --author="*.es"
 
-
+Listado Apellido y asignaturas: grep 'Apellido,.*Asignatura' ...txt
