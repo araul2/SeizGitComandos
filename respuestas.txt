@@ -2,4 +2,4 @@ Comandoooos
 
 Ramas: git branch primeras git checkout primeras
 
-Nombres: git grep juan
+Nombres: grep -i juan
