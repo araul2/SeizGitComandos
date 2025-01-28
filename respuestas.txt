@@ -1,9 +1,3 @@
 Comandoooos
 
 Ramas: git branch primeras git checkout primeras 
-
-Nombres: git grep juan
-
-Solo Asignatura de programacion:
-
-Dominio .es: git log --author="*.es"
