@@ -1,1 +1,3 @@
 Comandoooos
+
+Ramas: git branch primeras git checkout primeras
